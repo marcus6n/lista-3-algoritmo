@@ -29,7 +29,7 @@ O programa possui as seguintes funcionalidades:
 
 ## Contribuições
 
-Este projeto foi desenvolvido em colaboração por Marcus Nascimento e Isah Lima. Se você quiser contribuir para este projeto, fique à vontade para fazer um fork do repositório [GitHub](https://github.com/marcus6n/lista-3-algoritmo) e enviar suas melhorias por meio de pull requests.
+Este projeto foi desenvolvido em colaboração por Marcus de Oliveira Neves e Isabelly de Oliveira de Melo. Se você quiser contribuir para este projeto, fique à vontade para fazer um fork do repositório [GitHub](https://github.com/marcus6n/lista-3-algoritmo) e enviar suas melhorias por meio de pull requests.
 
 Qualquer dúvida ou sugestão, sinta-se à vontade para entrar em contato com os colaboradores mencionados acima.
 
